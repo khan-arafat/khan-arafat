@@ -6,4 +6,6 @@ If you want to connect with me here is my LinkedIn account: https://www.linkedin
 ## Skills and Experience :➡
 ![My Skills](https://skillicons.dev/icons?i=css,html,js,react,express,nodejs,mongodb,jquery,java)
 
-![Arafat's Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-arafat&theme=dark)
+![Arafat's Performane stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khan-arafat&theme=dark)
+
+![Arafat's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khan-arafat&langs_count=10&theme=tokyo-night)
